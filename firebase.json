@@ -1,6 +1,7 @@
 {
   "hosting": {
-    "public": "y",
+
+    "public": "dist",
     "ignore": [
       "firebase.json",
       "**/.*",
@@ -12,6 +13,7 @@
         "destination": "/index.html"
       }
     ]
-  },
-  "emulators": {}
-}
+
+  }
+
+  }
