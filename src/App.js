@@ -26,7 +26,7 @@ function App() {
       </Grid>
       <Router>
         <Switch>
-          <Route path='/signup' component={SignupForm}/>
+          <Route path='/' component={SignupForm}/>
         </Switch>
       </Router>
 
