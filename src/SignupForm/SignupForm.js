@@ -62,7 +62,6 @@ export default function SignupForm() {
         }
     }
 
-   
     return (
         <Container component='main' maxWidth='xs' className={classes.container}>
             <div className={classes.paper}>
